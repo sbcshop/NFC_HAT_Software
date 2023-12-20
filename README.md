@@ -60,7 +60,9 @@ This Github provides a getting started guide and other working details for the N
 ### Example Codes
    run the example code file you want to try as **main.py**
    In [example](https://github.com/sbcshop/NFC_HAT_Software/tree/main/examples) folder you will find demo example script code to test onboard components of HAT like 
-   - [NFC module demo](https://github.com/sbcshop/NFC_HAT_Software/blob/main/examples/main.py): testing onboard NFC module, buzzer, and display unit of the shield. [nfc. py]this is the library file (https://github.com/sbcshop/NFC_HAT_Software/blob/main/examples/nfc.py)
+   - [NFC module demo](https://github.com/sbcshop/NFC_HAT_Software/blob/main/examples/main.py): testing onboard NFC module, buzzer, and display unit of the shield. [nfc. py](https://github.com/sbcshop/NFC_HAT_Software/blob/main/examples/nfc.py)
+   - 
+   -  This is the library file 
 
 ### Working Without Pico (Via USB)
 <img src="https://github.com/sbcshop/NFC_HAT_Software/blob/main/images/nfc%20hat%20with%20usb.png">
