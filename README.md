@@ -133,11 +133,8 @@ for this, you need to connect a USB to the NFC HAT board, download the window so
   * [Schematic](https://github.com/sbcshop/Pico_NFC_Expansion_Hardware/blob/main/Design%20Data/SCH.pdf)
   * [Hardware Files](https://github.com/sbcshop/Pico_NFC_Expansion_Hardware)
   * [Step File](https://github.com/sbcshop/Pico_NFC_Expansion_Hardware/blob/main/Mechanical%20Data/NFC%20EXPANSION.step)
-  * [MicroPython getting started for RPi Pico/Pico W](https://docs.micropython.org/en/latest/rp2/quickref.html)
-  * [Pico W Getting Started](https://projects.raspberrypi.org/en/projects/get-started-pico-w)
-  * [RP2040 Datasheet](https://github.com/sbcshop/HackyPi-Hardware/blob/main/Documents/rp2040-datasheet.pdf)
-  * [NFC Module Command Manual](https://github.com/sbcshop/Pico_NFC_Expansion_Software/blob/main/documents/NFC%20Module%20command%20Manual.pdf)
-  * [NTAG213/215/216 Datasheet](https://github.com/sbcshop/Pico_NFC_Expansion_Software/blob/main/documents/NTAG213_215_216.pdf)
+  * [NFC Module Command Manual](https://github.com/sbcshop/NFC_HAT_Software/blob/main/documents/NFC%20Module%20command%20Manual.pdf)
+  * [NTAG213/215/216 Datasheet](https://github.com/sbcshop/NFC_HAT_Software/blob/main/documents/NTAG213_215_216.pdf)
 
 
 ## Related Products
