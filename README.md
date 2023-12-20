@@ -35,8 +35,8 @@ This Github provides a getting started guide and other working details for the N
   
   | Raspberry Pi | NFC Module Pin | Function |
   |---|---|---|
-  |UARTO TX | RX | Serial UART connection |
-  |UARTO RX | TX  | Serial UART connection |
+  |UART0 TX | RX | Serial UART connection |
+  |UART0 RX | TX  | Serial UART connection |
 
 
 - Buzzer and OLED Interfacing
