@@ -56,19 +56,6 @@ This Github provides a getting started guide and other working details for the N
   |GND    | NFC Pins|
   |VCC    | NFC Pins|
 
-### 3. How to move your script on Pico W of Expansion
-   - Click on File -> Save Copy -> select Raspberry Pi Pico , Then save file as main.py
-     
-      <img src="https://github.com/sbcshop/3.2_Touchsy_Pico_W_Resistive_Software/blob/main/images/transfer_script_pico.gif" />
-   
-      Similarly, you can add various Python code files to Pico. Also, you can try out sample codes given here in [examples folder](https://github.com/sbcshop/Pico_NFC_Expansion_Software/tree/main/examples). 
-   
-   - But in case you want to move multiple files at one go, for example, suppose you are interested in saving the library files folder into Pico W, the below image demonstrates that
-     
-      <img src="https://github.com/sbcshop/3.2_Touchsy_Pico_W_Capacitive_Software/blob/main/images/multiple_file_transfer.gif" />
-   
-**NOTE: Don't rename _lib_ files** or other files, only your main code script should be renamed as main.py for standalone execution without Thonny.
-
 
 ### Example Codes
    Save whatever example code file you want to try as **main.py** in **Pico W** as shown above [step 3](https://github.com/sbcshop/ReadPi_NFC_Software/tree/main#3-how-to-move-your-script-on-pico-w-of-readpi), also add related lib files with the default name.
