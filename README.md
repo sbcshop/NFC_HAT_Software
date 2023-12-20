@@ -119,7 +119,7 @@ for this, you need to connect a USB to the NFC HAT board, download the window so
         STATUS 0x00 - OK
     ```
 
-   Checkout [Manual](https://github.com/sbcshop/Pico_NFC_Expansion_Software/blob/main/documents/NFC%20Module%20command%20Manual.pdf) for a detailed understanding of System and Working Commands to send module from Host and corresponding response getting from NFC Module. 
+   Checkout [Manual](https://github.com/sbcshop/NFC_HAT_Software/blob/main/documents/NFC%20Module%20command%20Manual.pdf) for a detailed understanding of System and Working Commands to send module from Host and corresponding response getting from NFC Module. 
 
    #### Basic Memory Structure of NFC Tags 
    The EEPROM memory is organized into pages with 4 bytes per page. The NTAG213 variant has 45 pages, the NTAG215 variant has 135 pages and the NTAG216 variant has 231 pages in total. The functionality of the different memory sections is shown below for NTAG213. 
