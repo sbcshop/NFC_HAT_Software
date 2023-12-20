@@ -14,10 +14,9 @@ This Github provides a getting started guide and other working details for the N
 - Multi-tune Buzzer to add audio alert into the project
 - Status LED for board power, and Tag Scan indication 
 - Multi-platform support like MicroPython, CircuitPython, and Arduino IDE.
-- Comes with HID support, so the device can simulate a mouse or keyboard 
-
+  
 ### Specifications:
-- Operating voltage of pins 3.3V and board supply 5V
+- Operating voltage supply 5V
 - Operating Frequency: 13.56MHz
 - Operating current: 50mA
 - Reading Distance: >50mm(The effective distance is related to the IC card and the use environment)
@@ -26,30 +25,30 @@ This Github provides a getting started guide and other working details for the N
 - Contactless cards: NTAG213, Mifare one S50, Mifare one S70, ultralight, FM11RF08
 - Operating Temperature: -15°C~+55°C
 
-## Getting Started with NFC Expansion
+## Getting Started with NFC HAT
 ### Hardware Overview
 #### Pinout
-<img src="https://github.com/sbcshop/Pico_NFC_Expansion_Software/blob/main/images/img.png">
+<img src="https://github.com/sbcshop/NFC_HAT_Software/blob/main/images/img3.png">
 
 ### Interfacing Details
-- Pico W/Pico and RFID module interfacing
+- Raspberry Pi and RFID module interfacing
   
-  | Pico W | NFC Module Pin | Function |
+  | Raspberry Pi | NFC Module Pin | Function |
   |---|---|---|
-  |GP1 | RX | Serial UART connection |
-  |GP0 | TX  | Serial UART connection |
+  |UARTO TX | RX | Serial UART connection |
+  |UARTO RX | TX  | Serial UART connection |
 
 
 - Buzzer and OLED Interfacing
   
-  | Pico W | Buttons | Function |
+  | Raspberry Pi | Buttons | Function |
   |---|---|---|
-  |GP20 | SDA |OLED Pin|
-  |GP21 | SCL |OLED Pin|
-  |GP2  | Buzzer | Buzzer positive |
+  |GPIO2 | SDA |OLED Pin|
+  |GPIO3 | SCL |OLED Pin|
+  |GPIO17  | Buzzer | Buzzer positive |
  
 - Breakout Pins of NFC
-  | Pico W | Function |
+  | NFC HAT | Function |
   |---|---|
   |BEEP | NFC buzzer Pin |
   |NFC_RX | NFC Pin |
