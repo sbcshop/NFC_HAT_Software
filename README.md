@@ -13,7 +13,7 @@ This Github provides a getting started guide and other working details for the N
 - Multifunction GPIO breakout supporting general I/O, UART, I2C, SPI, ADC & PWM function.
 - Multi-tune Buzzer to add audio alert into the project
 - Status LED for board power, and Tag Scan indication 
-- Multi-platform support like MicroPython, CircuitPython, and Arduino IDE.
+- Multi-platform support like Python, MicroPython, CircuitPython, and Arduino IDE.
   
 ### Specifications:
 - Operating voltage supply 5V
