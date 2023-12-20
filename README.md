@@ -1,8 +1,8 @@
 # NFC_HAT_Software
 
-<img src="https://github.com/sbcshop/Pico_NFC_Expansion_Software/blob/main/images/img1.png">
+<img src="https://github.com/sbcshop/NFC_HAT_Software/blob/main/images/nfc%20hat.png">
 
-Pico NFC Expansion 13.56 MHz frequency-based NFC Reader/Writer. 
+Pi NFC HAT 13.56 MHz frequency-based NFC Reader/Writer. 
 This Github provides a getting started guide and other working details for the NFC Expansion.
 
 ### Features:
