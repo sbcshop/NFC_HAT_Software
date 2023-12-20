@@ -1,10 +1,8 @@
 '''
 Demo program to see how to read and write NFC tag
 '''
-#from machine import UART,Pin,SPI,PWM, I2C
 import time
 from nfc import NFC,SSD1306
-#from oled_091 import SSD1306
 from subprocess import check_output
 from time import sleep
 from datetime import datetime
