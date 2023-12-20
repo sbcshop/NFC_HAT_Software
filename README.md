@@ -60,7 +60,7 @@ This Github provides a getting started guide and other working details for the N
 ### Example Codes
    Save whatever example code file you want to try as **main.py** in **Pico W** as shown above [step 3](https://github.com/sbcshop/ReadPi_NFC_Software/tree/main#3-how-to-move-your-script-on-pico-w-of-readpi), also add related lib files with the default name.
    In [example](https://github.com/sbcshop/NFC_HAT_Software/tree/main/examples) folder you will find demo example script code to test onboard components of Expansion like 
-   - [NFC module demo](https://github.com/sbcshop/Pico_NFC_Expansion_Software/blob/main/examples/main.py): testing onboard NFC module, buzzer and display unit of the shield. For this demo code to test you will have to add lib [nfc. py](https://github.com/sbcshop/Pico_NFC_Expansion_Software/blob/main/examples/nfc.py)
+   - [NFC module demo](https://github.com/sbcshop/NFC_HAT_Software/blob/main/examples/main.py): testing onboard NFC module, buzzer, and display unit of the shield. For this demo code to test you will have to add lib [nfc. py](https://github.com/sbcshop/NFC_HAT_Software/blob/main/examples/nfc.py)
 
 ### Working Without Pico (Via USB)
 <img src="https://github.com/sbcshop/NFC_HAT_Software/blob/main/images/nfc%20hat%20with%20usb.png">
