@@ -63,7 +63,7 @@ This Github provides a getting started guide and other working details for the N
    - [NFC module demo](https://github.com/sbcshop/Pico_NFC_Expansion_Software/blob/main/examples/main.py): testing onboard NFC module, buzzer and display unit of the shield. For this demo code to test you will have to add lib [nfc. py](https://github.com/sbcshop/Pico_NFC_Expansion_Software/blob/main/examples/nfc.py)
 
 ### Working Without Pico (Via USB)
-<img src="https://github.com/sbcshop/Pico_NFC_Expansion_Software/blob/main/images/img2.png">
+<img src="https://github.com/sbcshop/NFC_HAT_Software/blob/main/images/nfc%20hat%20with%20usb.png">
 
 You can also configure, read/write, etc using the NFC Module using Windows Software 
 for this, you need to connect a USB to the Expansion board download the window software, install the software 
