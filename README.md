@@ -66,7 +66,7 @@ This Github provides a getting started guide and other working details for the N
 <img src="https://github.com/sbcshop/NFC_HAT_Software/blob/main/images/nfc%20hat%20with%20usb.png">
 
 You can also configure, read/write, etc using the NFC Module using Windows Software 
-for this, you need to connect a USB to the NFC HAT board,download the window software, install the software 
+for this, you need to connect a USB to the NFC HAT board, download the window software, install the software 
    
    **Find more details in [UART/USB](https://github.com/sbcshop/NFC_Module)**
    
