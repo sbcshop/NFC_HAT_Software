@@ -130,9 +130,9 @@ for this, you need to connect a USB to the NFC HAT board, download the window so
 
    
 ## Resources
-  * [Schematic](https://github.com/sbcshop/Pico_NFC_Expansion_Hardware/blob/main/Design%20Data/SCH.pdf)
-  * [Hardware Files](https://github.com/sbcshop/Pico_NFC_Expansion_Hardware)
-  * [Step File](https://github.com/sbcshop/Pico_NFC_Expansion_Hardware/blob/main/Mechanical%20Data/NFC%20EXPANSION.step)
+  * [Schematic](https://github.com/sbcshop/NFC_HAT_Hardware/blob/main/Design%20Data/SCH.pdf)
+  * [Hardware Files](https://github.com/sbcshop/NFC_HAT_Hardware)
+  * [Step File](https://github.com/sbcshop/NFC_HAT_Hardware/blob/main/Mechanical%20Data/STEP%20NFC%20HAT.step)
   * [NFC Module Command Manual](https://github.com/sbcshop/NFC_HAT_Software/blob/main/documents/NFC%20Module%20command%20Manual.pdf)
   * [NTAG213/215/216 Datasheet](https://github.com/sbcshop/NFC_HAT_Software/blob/main/documents/NTAG213_215_216.pdf)
 
