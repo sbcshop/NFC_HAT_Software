@@ -69,7 +69,8 @@ This Github provides a getting started guide and other working details for the N
 - You can also configure, read/write, etc on the NFC Module using Windows Software.
 - Software download link and operational working detail is available on this [link](https://github.com/sbcshop/NFC_Module/blob/main/README.md#nfc-module-with-software-application)
    
-  #### Working Description with NFC module:
+
+### Working Description of NFC module:
    
   - Basic Communication Protocol: Data Format
 
