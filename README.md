@@ -60,17 +60,14 @@ This Github provides a getting started guide and other working details for the N
 ### Example Codes
    run the example code file you want to try as **main.py**
    In [example](https://github.com/sbcshop/NFC_HAT_Software/tree/main/examples) folder you will find demo example script code to test onboard components of HAT like 
-   - [NFC module demo](https://github.com/sbcshop/NFC_HAT_Software/blob/main/examples/main.py): testing onboard NFC module, buzzer, and display unit of the shield. [nfc. py](https://github.com/sbcshop/NFC_HAT_Software/blob/main/examples/nfc.py)
-   - 
-   -  This is the library file 
+   - [NFC module demo](https://github.com/sbcshop/NFC_HAT_Software/blob/main/examples/main.py): testing onboard NFC module, buzzer, and display unit of the shield.
+   - [nfc. py](https://github.com/sbcshop/NFC_HAT_Software/blob/main/examples/nfc.py) : This is the library file 
 
-### Working Without Pico (Via USB)
+### Working Without PI (via USB)
 <img src="https://github.com/sbcshop/NFC_HAT_Software/blob/main/images/nfc%20hat%20with%20usb.png">
 
-You can also configure, read/write, etc using the NFC Module using Windows Software 
-for this, you need to connect a USB to the NFC HAT board, download the window software, install the software 
-   
-   **Find more details in [UART/USB](https://github.com/sbcshop/NFC_Module)**
+- You can also configure, read/write, etc on the NFC Module using Windows Software.
+- Software download link and operational working detail is available on this [link](https://github.com/sbcshop/NFC_Module/blob/main/README.md#nfc-module-with-software-application)
    
   #### Working Description with NFC module:
    
