@@ -3,7 +3,7 @@
 <img src="https://github.com/sbcshop/NFC_HAT_Software/blob/main/images/nfc%20hat.png">
 
 Pi NFC HAT 13.56 MHz frequency-based NFC Reader/Writer. 
-This Github provides a getting started guide and other working details for the NFC Expansion.
+This Github provides a getting started guide and other working details for the NFC HAT for Raspberry Pi.
 
 ### Features:
 - Onboard 13.56MHz NFC read/write Module
@@ -51,10 +51,10 @@ This Github provides a getting started guide and other working details for the N
   | NFC HAT | Function |
   |---|---|
   |BEEP | NFC buzzer Pin |
-  |NFC_RX | NFC Pin |
-  |NFC_TX | NFC Pin |
-  |GND    | NFC Pins|
-  |VCC (5V)   | NFC Pins|
+  |NFC_RX | NFC UART Pin |
+  |NFC_TX | NFC UART Pin |
+  |GND    | Supply Ground |
+  |VCC (5V) | 5V Supply |
 
 
 ### Example Codes
